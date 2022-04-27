@@ -1,3 +1,4 @@
-__Issue__:
+__Issue__: <Summary of issue>
 
-__Fix__
+__Fix__:
+1. Itemized list of changes made
