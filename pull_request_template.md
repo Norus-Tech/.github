@@ -1,4 +1,7 @@
-__Issue__: <Summary of issue>
+### Issue: 
+Summary of Issue
 
-__Fix__:
-1. Itemized list of changes made
+#### Fix
+1. Itemized list of changes
+  
+  
