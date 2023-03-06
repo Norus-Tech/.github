@@ -1,7 +1,6 @@
-## Hi there 👋
+# Norus Github Guide 
 
-
-# Norus Starter Templates 
+### Norus Starter Templates 
 
 Nextjs : https://github.com/Norus-Tech/nextjs-starter-template
 
