@@ -1,18 +1,4 @@
-# Norus Github Guide 
-
-### Norus Starter Templates 
-
-Nextjs : https://github.com/Norus-Tech/nextjs-starter-template
-
-Strapi : https://github.com/Norus-Tech/strapi-starter-template
-
-
-### External websites
-
-Vercel : https://vercel.com/norus
-
-Heroku : https://dashboard.heroku.com/teams/norus/apps
-
+Website : https://norustech.com
 
 
 <!--
